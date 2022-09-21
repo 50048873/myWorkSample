@@ -1,4 +1,4 @@
-# vue3_basic1
+# my work sample
 
 ## Project setup
 ```
